@@ -244,6 +244,7 @@ h1::selection {
     width: 300px;
     margin-left: 350px;
     margin-top: 25px;
+    color: black;
 }
 
 .h2 {
