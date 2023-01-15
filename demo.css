@@ -1,0 +1,258 @@
+body {margin: 0%;
+    padding: 0%;
+    border: 0%;
+    background-image:url(YRM\ SERVICES.png);
+    background-repeat: no-repeat;
+    background-color:black;
+    width: 1348px;
+    height: 768px;
+display: inline-block;}
+
+.one {width: 148px;
+    height: 140px;
+    display: inline-block;
+    padding-left: 44px;
+    padding-top: 47px;
+
+}
+
+.two {font-size:xx-large;
+      color: white;
+        display: inline-block;
+        margin-top: -15px;
+        padding-left: 20px;
+        margin-bottom: 22px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        border-right: 8px solid white;
+        padding-right: 15px;
+}
+
+.two:hover {
+    box-shadow: inset 305px 0 0 0 #2192FF;
+    color: rgb(11, 10, 10);}
+
+.c1 {margin-bottom:55px ;
+        background-color: transparent;
+        color: beige;
+        border:5px solid blue;
+        padding:10px;
+        font-size: medium;
+        font-weight: bolder;
+        float: left;
+        font-stretch:expanded;
+        font-family:sans-serif;
+        margin-left: 150px;
+        cursor: pointer;
+    }
+
+.c1:hover {
+    box-shadow: inset 130px 0 0 0 #2192FF;
+    color: rgb(11, 10, 10);
+border-color: azure;}
+
+.c1:active {
+    background-color: #17d3cd;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+.c1:link { text-decoration: none; }
+
+H3 {
+    color: white;
+    text-align: right;
+    font-family: sans-serif;
+}
+
+H3::selection {
+    color: rgb(0, 179, 255);
+    background-color: black;
+}
+
+.s1{
+border: #2192FF solid 4px;
+margin-left: 480px;
+margin-right: 340px;
+margin-top: -20px;
+background-image: url(https://img.freepik.com/premium-photo/dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall_38607-306.jpg?size=626&ext=jpg&ga=GA1.2.1757436461.1665195417);
+}
+
+.t1 {
+    font-size:x-large;
+    margin-left: 25px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    display: flex;
+}
+
+.t1:link { text-decoration: none;
+color: aliceblue; 
+font-size: 20px;
+margin-top: 10px;}
+
+.t1::selection {
+    color: #2192FF;
+    background-color: black;
+}
+
+.t2 {
+    height: 55px;
+    width: 55px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.t3 {
+    font-size:x-large;
+    margin-left: 16px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Verdana, sans-serif;
+    display: flex;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.t3::selection {
+    color: aqua;
+    background-color: black;
+}
+
+.t3:link { text-decoration: none;
+color: rgb(255, 255, 255); 
+font-size: 20px;
+margin-top: 10px;
+}
+
+.t4 {
+    height: 55px;
+    width: 55px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.t5 {
+    font-size:x-large;
+    margin-left: 16px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Verdana, sans-serif;
+    display: flex;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.t5::selection {
+    color: aqua;
+    background-color: black;
+}
+
+.t5:link { text-decoration: none;
+color: rgb(255, 255, 255); 
+font-size: 20px;
+margin-top: 10px;
+}
+
+.t6 {
+    height: 55px;
+    width: 55px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.m1 {
+    height: 200px;
+    width: 300px;
+    margin-left: 75px ;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.i1 {
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.i2 {
+    margin-left: 240px;
+    margin-top: -50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.i3 {
+    margin-left: 500px;
+    margin-top: -110px;
+    margin-bottom: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.i4 {
+    margin-top: 0px;
+    margin-bottom: 2px;
+    margin-left: 1120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.i4:link {
+    text-decoration: none; 
+}
+
+.d1{
+    background-color: black;
+}
+
+.text {
+    color:white;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+    margin-left: 60px;
+    margin-top: 30px;
+    
+}
+
+.img1 {
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.imgt1 {
+    margin-left: 120px;
+    color: white;
+    font-weight: 600;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img2 {
+    margin-left: 570px;
+    margin-top: -760px;
+}
+
+.imgt2 {
+    margin-left: 550px;
+    color: white;
+    font-weight: 600;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img3 {
+    margin-left: 990px;
+    margin-top: -760px;
+}
+
+.imgt3 {
+    margin-left: 1020px;
+    margin-top: -30px;
+    color: white;
+    font-weight: 600;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
