@@ -42,7 +42,7 @@ display: inline-block;}
     float: left;
     font-stretch:expanded;
     font-family:sans-serif;
-    margin-left: 60px;
+    margin-left: 30px;
     cursor: pointer;
 }
 
@@ -139,6 +139,34 @@ display: inline-block;}
       }
 
 .b4:link { text-decoration: none; }
+
+.b5 {margin-bottom:50px ;
+    background-color: transparent;
+    color: beige;
+    border:5px solid blue;
+    padding:10px;
+    font-size: medium;
+    font-weight: bolder;
+    float: left;
+    font-stretch:expanded;
+    font-family:sans-serif;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.b5:hover {
+    box-shadow: inset 150px 0 0 0 #2192FF;
+    color: rgb(11, 10, 10);
+border-color: azure;
+}
+
+.b5:active {
+    background-color: #17d3cd;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.b5:link { text-decoration: none; }
 
 h1 {color: white;
     font-family: sans-serif;
